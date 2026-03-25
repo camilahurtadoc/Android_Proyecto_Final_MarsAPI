@@ -1,4 +1,4 @@
-package com.example.android_proyecto_final_marsapi
+package com.example.marsapipm
 
 import org.junit.Test
 
